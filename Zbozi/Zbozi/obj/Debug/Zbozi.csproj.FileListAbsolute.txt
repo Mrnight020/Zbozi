@@ -1,0 +1,11 @@
+C:\Users\A\OneDrive\Dokumenty\3.Ročník\OOP\Zbozi\Zbozi\bin\Debug\Zbozi.exe.config
+C:\Users\A\OneDrive\Dokumenty\3.Ročník\OOP\Zbozi\Zbozi\bin\Debug\Zbozi.exe
+C:\Users\A\OneDrive\Dokumenty\3.Ročník\OOP\Zbozi\Zbozi\bin\Debug\Zbozi.pdb
+C:\Users\A\OneDrive\Dokumenty\3.Ročník\OOP\Zbozi\Zbozi\obj\Debug\Zbozi.csproj.AssemblyReference.cache
+C:\Users\A\OneDrive\Dokumenty\3.Ročník\OOP\Zbozi\Zbozi\obj\Debug\Zbozi.csproj.SuggestedBindingRedirects.cache
+C:\Users\A\OneDrive\Dokumenty\3.Ročník\OOP\Zbozi\Zbozi\obj\Debug\Zbozi.Form1.resources
+C:\Users\A\OneDrive\Dokumenty\3.Ročník\OOP\Zbozi\Zbozi\obj\Debug\Zbozi.Properties.Resources.resources
+C:\Users\A\OneDrive\Dokumenty\3.Ročník\OOP\Zbozi\Zbozi\obj\Debug\Zbozi.csproj.GenerateResource.cache
+C:\Users\A\OneDrive\Dokumenty\3.Ročník\OOP\Zbozi\Zbozi\obj\Debug\Zbozi.csproj.CoreCompileInputs.cache
+C:\Users\A\OneDrive\Dokumenty\3.Ročník\OOP\Zbozi\Zbozi\obj\Debug\Zbozi.exe
+C:\Users\A\OneDrive\Dokumenty\3.Ročník\OOP\Zbozi\Zbozi\obj\Debug\Zbozi.pdb
